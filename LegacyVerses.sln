@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacyVerses", "LegacyVerses.csproj", "{D0D6B407-8DF9-493F-9FA5-E5835C7DEDEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0D6B407-8DF9-493F-9FA5-E5835C7DEDEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0D6B407-8DF9-493F-9FA5-E5835C7DEDEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0D6B407-8DF9-493F-9FA5-E5835C7DEDEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0D6B407-8DF9-493F-9FA5-E5835C7DEDEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33CBDCF3-4081-4BC8-919B-4006C943DD00}
+	EndGlobalSection
+EndGlobal

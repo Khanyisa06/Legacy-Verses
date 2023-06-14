@@ -1,0 +1,195 @@
+C:\Users\User\source\repos\LegacyVerses\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\source\repos\LegacyVerses\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\source\repos\LegacyVerses\bin\Debug\netcoreapp3.1\LegacyVerses.exe
+C:\Users\User\source\repos\LegacyVerses\bin\Debug\netcoreapp3.1\LegacyVerses.deps.json
+C:\Users\User\source\repos\LegacyVerses\bin\Debug\netcoreapp3.1\LegacyVerses.runtimeconfig.json
+C:\Users\User\source\repos\LegacyVerses\bin\Debug\netcoreapp3.1\LegacyVerses.runtimeconfig.dev.json
+C:\Users\User\source\repos\LegacyVerses\bin\Debug\netcoreapp3.1\LegacyVerses.dll
+C:\Users\User\source\repos\LegacyVerses\bin\Debug\netcoreapp3.1\LegacyVerses.pdb
+C:\Users\User\source\repos\LegacyVerses\bin\Debug\netcoreapp3.1\LegacyVerses.Views.dll
+C:\Users\User\source\repos\LegacyVerses\bin\Debug\netcoreapp3.1\LegacyVerses.Views.pdb
+C:\Users\User\source\repos\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.AssemblyInfo.cs
+C:\Users\User\source\repos\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\LegacyVerses\obj\Debug\netcoreapp3.1\staticwebassets\LegacyVerses.StaticWebAssets.Manifest.cache
+C:\Users\User\source\repos\LegacyVerses\obj\Debug\netcoreapp3.1\staticwebassets\LegacyVerses.StaticWebAssets.xml
+C:\Users\User\source\repos\LegacyVerses\obj\Debug\netcoreapp3.1\scopedcss\bundle\LegacyVerses.styles.css
+C:\Users\User\source\repos\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.TagHelpers.input.cache
+C:\Users\User\source\repos\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.TagHelpers.output.cache
+C:\Users\User\source\repos\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.RazorCoreGenerate.cache
+C:\Users\User\source\repos\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\source\repos\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\source\repos\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\source\repos\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\source\repos\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\source\repos\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\source\repos\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.RazorTargetAssemblyInfo.cs
+C:\Users\User\source\repos\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.Views.pdb
+C:\Users\User\source\repos\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.dll
+C:\Users\User\source\repos\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.pdb
+C:\Users\User\source\repos\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.genruntimeconfig.cache
+C:\Users\User\source\repos\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.csproj.CopyComplete
+C:\Users\User\source\repos\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Home\Motivational.cshtml.g.cs
+C:\Users\User\source\repos\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\User\source\repos\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Home\Category.cshtml.g.cs
+C:\Users\User\source\repos\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\User\source\repos\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Faith.cshtml.g.cs
+C:\Users\User\source\repos\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Forgiveness.cshtml.g.cs
+C:\Users\User\source\repos\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Love.cshtml.g.cs
+C:\Users\User\source\repos\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Patience.cshtml.g.cs
+C:\Users\User\source\repos\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Peace.cshtml.g.cs
+C:\Users\User\source\repos\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Strength.cshtml.g.cs
+C:\Users\User\source\repos\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Trust.cshtml.g.cs
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\bin\Debug\netcoreapp3.1\LegacyVerses.StaticWebAssets.xml
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\bin\Debug\netcoreapp3.1\LegacyVerses.exe
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\bin\Debug\netcoreapp3.1\LegacyVerses.deps.json
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\bin\Debug\netcoreapp3.1\LegacyVerses.runtimeconfig.json
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\bin\Debug\netcoreapp3.1\LegacyVerses.runtimeconfig.dev.json
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\bin\Debug\netcoreapp3.1\LegacyVerses.dll
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\bin\Debug\netcoreapp3.1\LegacyVerses.pdb
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\bin\Debug\netcoreapp3.1\LegacyVerses.Views.dll
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\bin\Debug\netcoreapp3.1\LegacyVerses.Views.pdb
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.csproj.AssemblyReference.cache
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.AssemblyInfoInputs.cache
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.AssemblyInfo.cs
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.csproj.CoreCompileInputs.cache
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.RazorAssemblyInfo.cache
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.RazorAssemblyInfo.cs
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\staticwebassets\LegacyVerses.StaticWebAssets.Manifest.cache
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.TagHelpers.input.cache
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.TagHelpers.output.cache
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.RazorCoreGenerate.cache
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Faith.cshtml.g.cs
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Forgiveness.cshtml.g.cs
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Love.cshtml.g.cs
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Patience.cshtml.g.cs
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Peace.cshtml.g.cs
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Strength.cshtml.g.cs
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Trust.cshtml.g.cs
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Home\Category.cshtml.g.cs
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Home\Motivational.cshtml.g.cs
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.RazorTargetAssemblyInfo.cache
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.RazorTargetAssemblyInfo.cs
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.Views.pdb
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.dll
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.pdb
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.genruntimeconfig.cache
+C:\Users\Vuyi\Downloads\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.csproj.CopyComplete
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.csproj.AssemblyReference.cache
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.dll
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.pdb
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\bin\Debug\netcoreapp3.1\LegacyVerses.exe
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\bin\Debug\netcoreapp3.1\LegacyVerses.deps.json
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\bin\Debug\netcoreapp3.1\LegacyVerses.runtimeconfig.json
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\bin\Debug\netcoreapp3.1\LegacyVerses.runtimeconfig.dev.json
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\bin\Debug\netcoreapp3.1\LegacyVerses.dll
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\bin\Debug\netcoreapp3.1\LegacyVerses.pdb
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\bin\Debug\netcoreapp3.1\LegacyVerses.Views.dll
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\bin\Debug\netcoreapp3.1\LegacyVerses.Views.pdb
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.AssemblyInfoInputs.cache
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.AssemblyInfo.cs
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.RazorAssemblyInfo.cache
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.RazorAssemblyInfo.cs
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\staticwebassets\LegacyVerses.StaticWebAssets.Manifest.cache
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\staticwebassets\LegacyVerses.StaticWebAssets.xml
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\scopedcss\bundle\LegacyVerses.styles.css
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.TagHelpers.input.cache
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.TagHelpers.output.cache
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.RazorCoreGenerate.cache
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Faith.cshtml.g.cs
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Forgiveness.cshtml.g.cs
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Love.cshtml.g.cs
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Patience.cshtml.g.cs
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Peace.cshtml.g.cs
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Strength.cshtml.g.cs
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Trust.cshtml.g.cs
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Home\Category.cshtml.g.cs
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Home\Motivational.cshtml.g.cs
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.RazorTargetAssemblyInfo.cache
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.RazorTargetAssemblyInfo.cs
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.Views.pdb
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.genruntimeconfig.cache
+C:\Users\User\Documents\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.csproj.CopyComplete
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\bin\Debug\netcoreapp3.1\appsettings.json
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\bin\Debug\netcoreapp3.1\LegacyVerses.StaticWebAssets.xml
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\bin\Debug\netcoreapp3.1\LegacyVerses.exe
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\bin\Debug\netcoreapp3.1\LegacyVerses.deps.json
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\bin\Debug\netcoreapp3.1\LegacyVerses.runtimeconfig.json
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\bin\Debug\netcoreapp3.1\LegacyVerses.runtimeconfig.dev.json
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\bin\Debug\netcoreapp3.1\LegacyVerses.dll
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\bin\Debug\netcoreapp3.1\LegacyVerses.pdb
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\bin\Debug\netcoreapp3.1\LegacyVerses.Views.dll
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\bin\Debug\netcoreapp3.1\LegacyVerses.Views.pdb
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.csproj.AssemblyReference.cache
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.GeneratedMSBuildEditorConfig.editorconfig
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.AssemblyInfoInputs.cache
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.AssemblyInfo.cs
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.csproj.CoreCompileInputs.cache
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.MvcApplicationPartsAssemblyInfo.cache
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.RazorAssemblyInfo.cache
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.RazorAssemblyInfo.cs
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\staticwebassets\LegacyVerses.StaticWebAssets.Manifest.cache
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\staticwebassets\LegacyVerses.StaticWebAssets.Pack.cache
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.LegacyVerses.Microsoft.AspNetCore.StaticWebAssets.props
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.LegacyVerses.props
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.LegacyVerses.props
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.LegacyVerses.props
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.TagHelpers.input.cache
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.TagHelpers.output.cache
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.RazorCoreGenerate.cache
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Faith.cshtml.g.cs
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Forgiveness.cshtml.g.cs
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Love.cshtml.g.cs
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Patience.cshtml.g.cs
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Peace.cshtml.g.cs
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Strength.cshtml.g.cs
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Trust.cshtml.g.cs
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Home\Category.cshtml.g.cs
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Home\Motivational.cshtml.g.cs
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.RazorTargetAssemblyInfo.cache
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.RazorTargetAssemblyInfo.cs
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.Views.pdb
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.dll
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.pdb
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.genruntimeconfig.cache
+C:\BCAD3 RESOURCES\LegacyVerses (3)\LegacyVerses (2)\LegacyVerses\LegacyVerses\obj\Debug\netcoreapp3.1\LegacyVerses.csproj.CopyComplete

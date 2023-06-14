@@ -1,0 +1,195 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+    <style>
+        .cards {
+            margin: 0 auto;
+            max-width: 1000px;
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax( 225px, 1fr));
+            gap: 20px;
+        }
+
+        .card {
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+            max-width: 300px;
+            margin: auto;
+            text-align: center;
+          
+            background-color: yellow;
+        }
+
+        .title {
+            color: grey;
+            font-size: 18px;
+        }
+
+
+
+        a {
+            text-decoration: none;
+            font-size: 22px;
+            color: black;
+        }
+
+        .divcolour {
+            background-color: yellow;
+            border-radius: 12px;
+            font-family:Arial;
+        }
+    </style>
+
+
+
+
+
+</head>
+
+
+<!--This is a comment. Comments are not displayed in the browser-->
+
+<body style="background-image: url('../Images/BK1.png'); background-repeat: no-repeat; background-size: 100% 100%">
+
+
+
+    <!--This is a comment. Comments are not displayed in the browser-->
+
+    <div class="divcolour">
+        <h1 style="text-align:center">Choose category for inpirational verses</h1>
+    </div>
+
+
+
+    <br />
+    <br />
+    <!--This is a comment. Comments are not displayed in the browser-->
+
+    <div class="cards">
+
+
+        <!--This is a comment. Comments are not displayed in the browser-->
+        <div class="card">
+
+
+            <a href="@Url.Action("Strength", "Categories" )">
+                <img src="~/Images/ST1.jpg" alt="John" style="width:100%">
+            </a>
+            <!--This is a comment. Comments are not displayed in the browser-->
+            <div class="divcolour">
+                <h1>Strength</h1>
+            </div>
+
+
+        </div>
+
+
+        <!--This is a comment. Comments are not displayed in the browser-->
+        <div class="card">
+
+
+            <a href="@Url.Action("Patience", "Categories" )">
+                <img src="~/Images/p4.jpg" alt="John" style="width:100%">
+            </a>
+
+            <div class="divcolour">
+                <h1>Patience</h1>
+            </div>
+
+        </div>
+
+        <!--This is a comment. Comments are not displayed in the browser-->
+        <div class="card">
+
+            <a href="@Url.Action("Faith", "Categories" )">
+                <img src="~/Images/F.jpg" alt="John" style="width:100%">
+            </a>
+
+            <div class="divcolour">
+                <h1>Faith</h1>
+            </div>
+
+
+
+        </div>
+
+        <!--This is a comment. Comments are not displayed in the browser-->
+        <div class="card">
+
+            <a href="@Url.Action("Peace", "Categories" )">
+                <img src="~/Images/PC.jpg" alt="John" style="width:100%">
+            </a>
+
+            <div class="divcolour">
+                <h1>Peace</h1>
+            </div>
+
+
+
+
+        </div>
+
+        <!--This is a comment. Comments are not displayed in the browser-->
+
+        <div class="card">
+
+            <a href=" @Url.Action("Love", "Categories" )">
+                <img src="~/Images/LOVE.jpg" alt="John" style="width:100%">
+            </a>
+
+            <div class="divcolour">
+                <h1>Love</h1>
+            </div>
+
+
+
+
+        </div>
+
+        <!--This is a comment. Comments are not displayed in the browser-->
+        <div class="card">
+
+            <a href="@Url.Action("Trust", "Categories" )">
+                <img src="~/Images/TRS.jpg" alt="John" style="width:100%">
+            </a>
+
+            <div class="divcolour">
+                <h1>Trust</h1>
+            </div>
+
+
+
+        </div>
+
+        <!--This is a comment. Comments are not displayed in the browser-->
+        <div class="card">
+
+            <a href="@Url.Action("Forgiveness", "Categories" )">
+                <img src="~/Images/FG.png" alt="John" style="width:100%">
+            </a>
+
+            <div class="divcolour">
+                <h1>Forgiveness</h1>
+            </div>
+
+
+
+        </div>
+
+
+
+    </div>
+
+
+
+
+
+</body>
+</html>

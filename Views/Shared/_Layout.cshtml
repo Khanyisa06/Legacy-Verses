@@ -1,0 +1,94 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - LegacyVerses</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+
+
+    <style>
+        /* Style the navigation bar */
+        .navbar {
+            width: 100%;
+            background-color: navy;
+            overflow: auto;
+          
+        }
+
+            /* Navbar links */
+            .navbar a {
+                float: left;
+                text-align: center;
+                padding: 10px;
+                color: black;
+                border-radius: 12px;
+                text-decoration: none;
+                font-size: 17px;
+            }
+
+                /* Navbar links on mouse-over */
+                .navbar a:hover {
+                    background-color: dimgrey;
+                }
+
+        /* Current/active navbar link */
+        .active {
+            background-color: yellow;
+        }
+
+    </style>
+
+     
+
+
+
+</head>
+
+
+<body>
+
+    <header>
+
+
+
+
+
+
+
+
+        <div class="navbar">
+
+            <a class="active" asp-area="" asp-controller="Home" asp-action="Index"><i class="fa fa-fw fa-home"></i> Home</a>
+            <a class="active" asp-area="" asp-controller="Home" asp-action="Category"><i class="fa fa-list-alt"></i>Categories</a>
+            <a class="active" asp-area="" asp-controller="Home" asp-action="Motivational"><i class='fas fa-bible'></i> Inspire Me</a>
+            <a class="active" asp-area="" asp-controller="Home" asp-action="Contact"><i class="fa fa-envelope-open"></i> Contact Us</a>
+            <a class="active" asp-area="" asp-controller="Home" asp-action="About"><i class="fa fa-users"></i> About Us</a>
+        </div>
+
+      
+    </header>
+
+    <br />
+    <br />
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2022 - LegacyVerses - <a asp-area="" asp-controller="Home" asp-action="Index"> Legacy Verses Web </a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>
